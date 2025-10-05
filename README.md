@@ -1,6 +1,7 @@
 # CPU-GPUcompareMatrix
 
-##Output 
+## Output 
+
 make compare 
 ```sh
 make compare
